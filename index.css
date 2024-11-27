@@ -1,0 +1,60 @@
+body {
+    background-image: url("background_image_body.jpeg");
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(88, 1, 81);
+}
+
+
+#card {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    background-image: url("background_image.jpg");
+    background-size: cover;
+    box-shadow: 5px 0px 40px  cadetblue;
+    padding-top: 20px ;
+
+}
+
+#card h1 {
+    text-align: center;
+
+}
+
+#card h2 {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+#buttons {
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+#button button{
+    background-color: cadetblue;
+}
+
+#box-el {
+    background: rgb(4, 113, 121);
+    width: 200px;
+    height: 100px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+.images {
+    width: 100px;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+

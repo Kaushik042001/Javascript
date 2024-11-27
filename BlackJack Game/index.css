@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg");
+    background-size: cover;
+    text-align: center;
+    color: wheat;
+    font-weight: bold;  
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    width: 150px;
+    font-weight: bold;
+    color: #016f32;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px ;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
